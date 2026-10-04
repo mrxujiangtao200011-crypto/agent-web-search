@@ -2,6 +2,7 @@
 
 # Agent Web Search
 
+[![AgentHub 已收录：Agent Web Search](https://myagenthub.cn/badge/io.github.JerryLiu369/agent-web-search)](https://myagenthub.cn/p/io.github.JerryLiu369/agent-web-search)
 <!-- mcp-name: io.github.JerryLiu369/agent-web-search -->
 
 **Agent-native web search — model-native grounding and agent search APIs behind one provider-neutral contract.**
